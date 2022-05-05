@@ -100,3 +100,16 @@ form h4 {
   color: white;
   background-color: black;
 }
+
+.button {
+  background-color: red;
+  border-radius: 2px;
+  color: white;
+  padding: 10px 10px;
+  float: left;
+  text-align: center;
+  text-decoration: none;
+  font-size: 12px;
+  width: 50px;
+  height: 25px;
+}
